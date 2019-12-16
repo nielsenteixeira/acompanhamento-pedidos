@@ -1,0 +1,52 @@
+{
+  "pedidos": [
+    {
+      "nome": "Pedido 1",
+      "cpf": "99999999999",
+      "descricao": "Pedido 1",
+      "status": "EXCLUIDO",
+      "createdAt": "2019-12-16T03:01:10.627Z",
+      "id": 1
+    },
+    {
+      "nome": "Pedido 2",
+      "cpf": "99999999999",
+      "descricao": "Pedido 2",
+      "status": "NOVO",
+      "createdAt": "2019-12-16T15:07:04.428Z",
+      "id": 2
+    },
+    {
+      "nome": "Pedido 3",
+      "cpf": "99999999999",
+      "descricao": "Pedido 3",
+      "status": "CONFERENCIA",
+      "createdAt": "2019-12-16T12:07:16.268Z",
+      "id": 3
+    },
+    {
+      "nome": "Pedido 5",
+      "cpf": "99999999999",
+      "descricao": "Pedido 5",
+      "status": "PRONTO",
+      "createdAt": "2019-12-15T15:08:37.217Z",
+      "id": 4
+    },
+    {
+      "nome": "Pedido 6",
+      "cpf": "99999999999",
+      "descricao": "Pedido 6",
+      "status": "PREPARANDO",
+      "createdAt": "2019-12-16T15:08:37.217Z",
+      "id": 5
+    },
+    {
+      "nome": "Pedido 7",
+      "cpf": "88888888888",
+      "descricao": "Pedido 7",
+      "status": "EXCLUIDO",
+      "createdAt": "2019-12-16T15:12:06.397Z",
+      "id": 6
+    }
+  ]
+}
